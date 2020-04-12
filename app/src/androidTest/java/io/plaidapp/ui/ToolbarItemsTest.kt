@@ -32,10 +32,6 @@ class ToolbarItemsTest {
     var activityTestRule = ActivityTestRule(HomeActivity::class.java)
 
 
-
-
-
-
     @Test
     @Throws(Exception::class)
     fun verifyOverflowMenuItemAbout() {
